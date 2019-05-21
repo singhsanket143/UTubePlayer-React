@@ -1,3 +1,7 @@
+body {
+    background-image: linear-gradient(aquamarine, aqua, #00ffcc);
+}
+
 .video-item {
     display: flex !important;
     align-items: center !important;
